@@ -1,2 +1,2 @@
 # Portfolio
-Here is my  responcive portfolio
+Here is my  responsive portfolio website
